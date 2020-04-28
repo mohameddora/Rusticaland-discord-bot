@@ -11,10 +11,11 @@ Fun Commands
 Giveaway System
 Moderator Commands
 Moderator Events
+Logger
 Economy Commands
 Backup System
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzQ5MzIxMiw1NDk0MDgzOTEsMTUyNT
-E5NzU5OF19
+eyJoaXN0b3J5IjpbLTE1MjA1NzE4NiwxNjEzNDkzMjEyLDU0OT
+QwODM5MSwxNTI1MTk3NTk4XX0=
 -->
