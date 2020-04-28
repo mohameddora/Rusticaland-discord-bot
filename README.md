@@ -3,12 +3,15 @@ Discord bot for rusticaland.net discord server
 
 
 ## Planned Features (Sorted by priority)
-Role-assignment 
+Music Player
 Verification System
+Role-Assignment 
 Fun Commands
-Economy commands
-Moderator commands
+Moderator Commands
 Moderator Events
+Economy Commands
+Backup System
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODQ1MTc2MiwxNTI1MTk3NTk4XX0=
+eyJoaXN0b3J5IjpbNTQ5NDA4MzkxLDE1MjUxOTc1OThdfQ==
 -->
