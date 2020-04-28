@@ -13,6 +13,7 @@ Discord bot for rusticaland.net discord server
  - [ ] Moderator Events
  - [ ] Logger
  - [ ] Economy Commands
+ - [ ] Level System
  - [ ] Backup System
 
 ## Contributor
