@@ -18,8 +18,7 @@ Discord bot for rusticaland.net discord server
 ## Contributor
 [TheSkele27](https://github.com/TheSkele27)
 [ProWhiteGhost](https://github.com/ProWhiteGhost)
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwOTcxMzM4NiwxNjEzNDkzMjEyLDU0OT
-QwODM5MSwxNTI1MTk3NTk4XX0=
+eyJoaXN0b3J5IjpbLTExOTc4OTI5MzIsMTYxMzQ5MzIxMiw1ND
+k0MDgzOTEsMTUyNTE5NzU5OF19
 -->
