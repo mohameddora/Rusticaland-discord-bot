@@ -3,7 +3,7 @@ const { config } = require("dotenv");
 const fs = require("fs");
 
 const client = new Client({
-    disableEveryone: true
+    disableEveryone: false
 });
 
 client.commands = new Collection();
